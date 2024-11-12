@@ -1,0 +1,10 @@
+Email template - Plantilla de email
+
+Subject *
+New message from a member
+
+Content *
+New subscribed member {{user_email}}
+
+Best wishes,
+EmailJS team
